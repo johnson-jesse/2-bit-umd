@@ -1,7 +1,7 @@
 {
   "name": "@2-bit/umd",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A template for rapid setup for publishing as umd.",
   "main": "dist/bundle.js",
   "author": "Jesse A. Johnson <jesseajohnson@pm.me>",
