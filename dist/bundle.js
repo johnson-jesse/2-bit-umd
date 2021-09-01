@@ -1,1 +1,0 @@
-!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t():"function"==typeof define&&define.amd?define(t):(e="undefined"!=typeof globalThis?globalThis:e||self)["2BitUmd"]=t()}(this,function(){"use strict";return function(){return"Hello UMD World! @2-bit/umd here!"}});
