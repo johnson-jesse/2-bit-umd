@@ -5,6 +5,11 @@
   "main": "dist/bundle.js",
   "author": "Jesse A. Johnson <jesseajohnson@pm.me>",
   "license": "MIT",
+  "homepage": "https://github.com/johnson-jesse/2-bit-umd#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnson-jesse/2-bit-umd"
+  },
   "scripts": {
     "build": "yarn rollup --config rollup.config.js"
   },
